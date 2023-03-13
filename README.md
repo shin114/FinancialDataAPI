@@ -53,7 +53,7 @@ To run this project in a local environment, you will need to have Python 3.11.2 
     http://localhost:5000/api/statistics
     ```
 
-## Why We Used SQLite, Peewee, and Flask?
+## Why SQLite, Peewee, and Flask?
 
 - **SQLite** is a lightweight relational database management system that is easy to set up and use. It is perfect for small to medium-sized applications, and it requires no separate server process.
 
